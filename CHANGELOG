@@ -1,0 +1,29 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+## [Unreleased]
+
+### Added
+- Initial release of Flash USDT Sender Bot.
+- Ability to send USDT transactions to multiple addresses.
+- Configuration options for customizing gas fees and transaction speeds.
+- Detailed error handling and logging system.
+
+### Changed
+- Improved the performance of transaction sending for faster execution.
+- Refined user interface and interaction for easier configuration.
+
+### Fixed
+- Fixed issues with network timeouts during transaction submissions.
+- Resolved some minor bugs in the transaction monitoring system.
+
+## [v1.0.0] - 2025-01-31
+
+### Added
+- Released the first stable version of the bot.
+- Fully functioning USDT sending and transaction monitoring.
+- Comprehensive documentation for setup and usage.
+
+### Fixed
+- Fixed incorrect handling of transaction failure notifications.
